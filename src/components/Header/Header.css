@@ -1,0 +1,19 @@
+.nav {
+    background-color: cadetblue;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.nav a {
+    text-decoration: none;
+    margin-left: 20px;
+    font-size: 30px;
+    color: black;
+    font-weight: bold;
+
+}
+
+.nav a:hover {
+    color: chartreuse;
+
+}

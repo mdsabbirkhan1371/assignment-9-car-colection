@@ -1,7 +1,13 @@
-# Getting Started with Create React App
+# My Live Site Link and git hub code;
+This project was bootstrapped with [my live site link](https://shiny-lily-43343d.netlify.app/home)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Code link[code Link](https://github.com/programming-hero-web-course-4/product-analysis-website-mdsabbirkhan1371)
 
+## I used in this website 
+1.React js
+2.vanaila css
+3. React router
+4.write some blogs also;
 ## Available Scripts
 
 In the project directory, you can run:

@@ -15,16 +15,3 @@ const Review3 = (props) => {
 };
 
 export default Review3;
-
-{/* <div className='review'>
-                <h1>Customer Reviews{reviewers.length}</h1>
-                <div className='item'>
-                    {
-                        reviewers.map(review => < Review3
-                            key={review.id}
-                            review={review}
-                        ></Review3>)
-                    }
-
-                </div>
-            </div> */}

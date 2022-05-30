@@ -47,7 +47,7 @@ const Dashboard = () => {
         <div className='dash-board'>
             <div style={{ marginBottom: "50px", marginTop: "30px" }}>
                 <h3>This is an example for Line Chart..</h3>
-                <LineChart
+                <LineChart className='line-chart'
                     width={700}
                     height={300}
                     data={data}

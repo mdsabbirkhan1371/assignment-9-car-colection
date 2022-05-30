@@ -7,9 +7,6 @@ import SeeMore from '../SeeMore/SeeMore';
 
 
 const Home = () => {
-
-    const [reviewers, setreviwers] = useReviewer();
-
     return (
         <div className='home-container'>
             <div className='details'>
@@ -28,7 +25,6 @@ const Home = () => {
             <div>
                 <img src={images} alt="" />
             </div>
-
 
             <SeeMore></SeeMore>
         </div >

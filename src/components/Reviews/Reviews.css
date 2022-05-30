@@ -1,0 +1,7 @@
+.reviewers {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+}

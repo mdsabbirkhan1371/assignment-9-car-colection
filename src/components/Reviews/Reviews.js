@@ -1,9 +1,19 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
+import useReviewer from '../hooks/useReviers';
+import SingleReviw from '../../components/SingleReview/SingleReview'
+import './Reviews.css'
 
 const Reviews = () => {
+    const [reviewers, setreviwers] = useReviewer()
+
     return (
-        <div>
-            <h4>This is reviews section</h4>
+        <div className='reviewers'>
+            {
+                reviewers.map(reviewer => <SingleReviw
+                    key={reviewer.id}
+                    reviewer={reviewer}
+                ></SingleReviw>)
+            }
         </div>
     );
 };

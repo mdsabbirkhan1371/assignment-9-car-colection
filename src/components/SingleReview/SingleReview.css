@@ -1,0 +1,12 @@
+.single-reviewer img {
+    width: 200px;
+    height: 200px;
+}
+
+.single-reviewer p {}
+
+.single-reviewer {
+    border: 2px solid gray;
+    margin-top: 50px;
+    border-radius: 10px;
+}

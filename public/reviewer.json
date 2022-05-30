@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Jimmy Paterson",
+        "country": "England",
+        "picture": "https://i.ibb.co/17x3Yqt/6-The-Ruffled-Wavy-look-1.jpg",
+        "ratings": 4
+    },
+    {
+        "id": 2,
+        "name": "Sabbir Khan",
+        "country": "Bangladesh",
+        "picture": "https://i.ibb.co/6Dxq9TL/image5.jpg",
+        "ratings": 5
+    },
+    {
+        "id": 3,
+        "name": "Mahmudul Hasan",
+        "country": "Pakisthan",
+        "picture": "https://i.ibb.co/1s72BMT/picturet.jpg",
+        "ratings": 3
+    },
+    {
+        "id": 4,
+        "name": "Sakib Al Hasan",
+        "country": "United States",
+        "picture": "https://i.ibb.co/KjK6RVH/picture7.jpg",
+        "ratings": 5
+    },
+    {
+        "id": 5,
+        "name": "Hufely Leo",
+        "country": "Mexico",
+        "picture": "https://i.ibb.co/yqFZCys/picture4.jpg",
+        "ratings": 3
+    },
+    {
+        "id": 6,
+        "name": "Chris Moris",
+        "country": "France",
+        "picture": "https://i.ibb.co/wWDJNYb/jsjfls.jpg",
+        "ratings": 4
+    },
+    {
+        "id": 7,
+        "name": "Jacob Liyo",
+        "country": "South Africa",
+        "picture": "https://i.ibb.co/f4kvhm5/pic.jpg",
+        "ratings": 5
+    },
+    {
+        "id": 8,
+        "name": "Paterson",
+        "country": "SudanS",
+        "picture": " https://i.ibb.co/w7mwpMh/picture2.jpg",
+        "ratings": 3
+    },
+    {
+        "id": 9,
+        "name": "Jordan Allen",
+        "country": "India",
+        "picture": " https://i.ibb.co/jGkmTCL/picture1.jpg",
+        "ratings": 4
+    },
+    {
+        "id": 10,
+        "name": "Jimmy",
+        "country": "Norway",
+        "picture": "https://i.ibb.co/pQ1Cpk3/picture.webp",
+        "ratings": 4
+    }
+]

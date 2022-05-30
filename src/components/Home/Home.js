@@ -1,7 +1,15 @@
-import React from 'react';
+import React, { useState } from 'react';
 import './Home.css'
 import images from '../../images/img2.jpg'
+import useReviewer from '../hooks/useReviers';
+import Review3 from '../Review3/Review3';
+import SeeMore from '../SeeMore/SeeMore';
+
+
 const Home = () => {
+
+    const [reviewers, setreviwers] = useReviewer();
+
     return (
         <div className='home-container'>
             <div className='details'>
@@ -20,7 +28,10 @@ const Home = () => {
             <div>
                 <img src={images} alt="" />
             </div>
-        </div>
+
+
+            <SeeMore></SeeMore>
+        </div >
     );
 };
 
